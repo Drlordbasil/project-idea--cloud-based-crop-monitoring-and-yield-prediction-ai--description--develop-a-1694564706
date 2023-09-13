@@ -1,0 +1,10 @@
+The package requirements for this Python program are:
+
+- requests
+- bs4 (BeautifulSoup)
+- pandas
+- sklearn.model_selection
+- sklearn.linear_model
+- sklearn.metrics
+- matplotlib.pyplot
+- seaborn
